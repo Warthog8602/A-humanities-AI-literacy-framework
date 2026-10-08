@@ -9,7 +9,7 @@ The following supplementary materials are available to support the findings of t
  https://github.com/Warthog8602/A-humanities-AI-literacy-framework.
 
 | Item	|	Title	|	Description	|
-| :---: | :---: | :---: |
+| :---: | :---: | :--- |
 |	S1	|	PRISMA 2020 |	Checklist Mapping Table	A completed checklist of 27 items reporting where each requirement is addressed within the manuscript.|
 |	S2	|	PRISMA 2020 |	Flow Diagram	A detailed flow chart illustrating the flow of information through the different phases of the systematic review.
 |	S3	|	Full Search Strategies	|	Full search strategies for all databases and sources consulted, including exact search strings, limits/filters, and dates searched.
