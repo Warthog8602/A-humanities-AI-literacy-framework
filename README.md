@@ -1,4 +1,4 @@
-# Proposing the Humanities AI Literacy Framework
+# A humanities AI literacy framework
 
 These documents are related to research on the Humanities AI literacy framework.
 
