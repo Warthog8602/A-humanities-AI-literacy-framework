@@ -8,6 +8,8 @@ Appendix: Supplementary Materials
 The following supplementary materials are available to support the findings of this study and ensure transparency in accordance with the PRISMA 2020 Statement. These files can be accessed via the journal's online repository or the provided public repository link:
  https://github.com/Warthog8602/A-humanities-AI-literacy-framework.
 
+ 
+
 | Item	|	Title	|	Description	|
 | :---: | :---: | :--- |
 |	S1	|	PRISMA 2020 |	Checklist Mapping Table	A completed checklist of 27 items reporting where each requirement is addressed within the manuscript.|
